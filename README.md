@@ -1,6 +1,6 @@
 ### Oh Hi 👋
 
-You can call be Robin Des Bois or simply Robin, I'm from Montreal, Quebec Canada.
+You can call me Robin Des Bois or simply Robin, I'm from Montreal, Quebec Canada.
 
 Professionally, I am heading up R&D with Boston Dynamics' Spot over at [Osedea](https://github.com/Osedea) with a fantastic set of other human beings. Aside from saying I play with a Robot all day, I contribute to the culture here at Osedea and help the team grow where I can. 
 
